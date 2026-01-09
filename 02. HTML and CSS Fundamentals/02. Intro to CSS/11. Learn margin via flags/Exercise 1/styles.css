@@ -1,18 +1,18 @@
 body {
-    margin:0;
+    margin:0px;
 }
 
 .red {
     background: #c71226;
     height: 100px;
-    /*Challenge:
-    Add 100px of margin on the bottom of the red box. */
-    
+    margin-bottom:10px;
 }
 
 .blue {
     background: #0d1b88;
     height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .green {
